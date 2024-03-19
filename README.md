@@ -20,9 +20,9 @@ If you're interested in collaborating or have any questions, feel free to reach 
 
 Email: will10gomez@gmail.com
 
-LinkedIn: [Willder Gomez](https://www.linkedin.com/in/willder-gomez-3322902b4/)
+LinkedIn: <a href="https://www.linkedin.com/in/willder-gomez-3322902b4/" target="_blank">Willder Gomez</a>
 
-Personal Website: [Willder's Portfolio Website](https://willgomez22.github.io/html-portfolio/)
+Personal Website: <a href="https://willgomez22.github.io/html-portfolio/" target="_blank">Willder's Portfolio Website</a>
 
 I'm looking forward to connecting with you!
 
