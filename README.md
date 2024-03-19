@@ -8,6 +8,15 @@ Welcome to my portfolio repository! I'm excited to showcase my journey as a Juni
 
 I'm a passionate Junior Web Developer with a focus on creating engaging and user-friendly web experiences. My proficiency in HTML, CSS, Bootstrap, and JavaScript allows me to build dynamic and responsive websites that meet modern design standards and user expectations. With a strong foundation in these technologies, I continuously strive to expand my skills and stay updated with industry trends.
 
+## Projects
+Here are some key projects from my portfolio:
+
+* My firts Website: this is my first website structure with just HTML and CSS.
+[See Project](https://willgomez22.github.io/website-structure/)
+
+* Login Form: This is a simple login form with no backend. The first project where I combine HTML, CSS and JavaScript
+[See Project](https://willgomez22.github.io/login-form/)
+
 ## Technologies
 I'm proficient in a variety of web development technologies including:
 
